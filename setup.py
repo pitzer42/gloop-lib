@@ -4,7 +4,7 @@ setup(
     name='gloop-lib',
     packages=['gloop', 'gloop.channels'],
     install_requires=[
-        'aiohttp==3.6.2',
+        'aiohttp==3.7.4',
          'aioredis==1.3.0',
          'async-timeout==3.0.1',
          'atomicwrites==1.3.0',
