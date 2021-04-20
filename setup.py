@@ -19,7 +19,7 @@ setup(
          'multidict==4.5.2',
          'packaging==19.2',
          'pluggy==0.13.0',
-         'py==1.8.0',
+         'py==1.10.0',
          'pyparsing==2.4.4',
          'pytest==5.2.2',
          'pytest-mock==1.11.2',
