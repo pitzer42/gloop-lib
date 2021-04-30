@@ -25,7 +25,7 @@ setup(
          'pytest-mock==1.11.2',
          'requests==2.22.0',
          'six==1.13.0',
-         'urllib3==1.25.6',
+         'urllib3==1.25.8',
          'wcwidth==0.1.7',
          'websocket-client==0.56.0',
          'yarl==1.3.0',
