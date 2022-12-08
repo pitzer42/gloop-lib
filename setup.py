@@ -9,7 +9,7 @@ setup(
          'async-timeout==3.0.1',
          'atomicwrites==1.3.0',
          'attrs==19.3.0',
-         'certifi==2019.9.11',
+         'certifi==2022.12.7',
          'chardet==3.0.4',
          'docker==4.1.0',
          'hiredis==1.0.0',
